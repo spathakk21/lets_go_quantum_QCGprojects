@@ -8,7 +8,7 @@
 **1. Notebook named : Transfer_learning_QCG.ipynb** -> Done binary image classification using **QUANTUM TRANSFER LEARNING.**
      Used various pre-trained models like **resnet-18, resnet-34 along with quatum layers**.
 
-   **DATASET** -> Used a subset of Hymenopetra dataset which includes images of bees and ants.
+   **DATASET** -> Used a subset of Hymenoptera dataset which includes images of bees and ants.
 
 **2. Notebook named : MNIST_QCG.ipynb** ->  Done MultiClass Image Classification using **Quantum machine learning with the idea of Convolutional Neural Net.** 
 Can be called ⏩ **Quanvolutional Neural Network**.
