@@ -6,17 +6,27 @@
 ## I tried making two minor projects using QML(Quantum Machine Learning):
 
 **1. Notebook named : Transfer_learning_QCG.ipynb** -> Done binary image classification using **QUANTUM TRANSFER LEARNING.**
-     Used two pre-trained models like **resnet-18, resnet-34 along with quatum layers** and comapred their val_accuracy.
+     Used two pre-trained models like **Resnet-18, Resnet-34 along with quatum layers** and comapred their val_accuracy.
 
    **DATASET** -> Used a subset of Hymenoptera dataset which includes images of bees and ants.
 
    ![Screenshot 2023-07-13 181929](https://github.com/spathakk21/lets_go_quantum_QCGprojects/assets/136467320/162e144d-e9d6-4d63-9e4b-bbd364a58bf8)
 
 
+   Here, 
+   
+   **MODEL A** -> Pre-trained Resnet-18/Resnet-34.
+
+   **MODEL B** -> QUANTUM LAYERS.
+
+
 **2. Notebook named : MNIST_QCG.ipynb** ->  Done MultiClass Image Classification using **Quantum machine learning with the idea of Convolutional Neural Net.** 
 Can be called ⏩ **Quanvolutional Neural Network**.
 
   **DATASET** -> Used subset of MNIST dataset from keras.
+
+  ![Screenshot 2023-07-13 203659](https://github.com/spathakk21/lets_go_quantum_QCGprojects/assets/136467320/3d13a87a-0398-4db5-91c5-e7ac63a49bd7)
+
 
 In this model, Quantum layers extract features from images and then classical machine learning models are implemented over it.
 
