@@ -6,7 +6,7 @@
 ## I tried making two minor projects using QML(Quantum Machine Learning):
 
 **1. Notebook named : Transfer_learning_QCG.ipynb** -> Done binary image classification using **QUANTUM TRANSFER LEARNING.**
-     Used various pre-trained models like **resnet-18, resnet-34 along with quatum layers**.
+     Used two pre-trained models like **resnet-18, resnet-34 along with quatum layers** and comapred their val_accuracy.
 
    **DATASET** -> Used a subset of Hymenoptera dataset which includes images of bees and ants.
 
