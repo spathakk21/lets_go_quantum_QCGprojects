@@ -39,3 +39,11 @@ b) Quantum computation, associated to a unitary U, is performed on the system. T
 c) Quantum convolution can be followed by further quantum layers or by classical layers.
 
 **Also, compared the Quantum layered model with Classical Conv net at the end of notebook.**
+
+
+## Took help from various sources mentioned below:
+https://blog.paperspace.com/beginners-guide-to-quantum-machine-learning/
+
+https://medium.com/meetech/highlighting-quantum-computing-for-machine-learning-1f1abd41cb59
+
+https://arxiv.org/pdf/2203.01831.pdf
