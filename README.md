@@ -10,6 +10,9 @@
 
    **DATASET** -> Used a subset of Hymenoptera dataset which includes images of bees and ants.
 
+   ![Screenshot 2023-07-13 181929](https://github.com/spathakk21/lets_go_quantum_QCGprojects/assets/136467320/162e144d-e9d6-4d63-9e4b-bbd364a58bf8)
+
+
 **2. Notebook named : MNIST_QCG.ipynb** ->  Done MultiClass Image Classification using **Quantum machine learning with the idea of Convolutional Neural Net.** 
 Can be called ⏩ **Quanvolutional Neural Network**.
 
